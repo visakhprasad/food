@@ -17,7 +17,7 @@
     "@vitejs/plugin-react": "^4.2.1",
     "autoprefixer": "latest",
     "postcss": "latest",
-    "tailwindcss": "latest",
+    "tailwindcss": "^3.4.1",
     "vite": "^5.1.4"
   }
 }
